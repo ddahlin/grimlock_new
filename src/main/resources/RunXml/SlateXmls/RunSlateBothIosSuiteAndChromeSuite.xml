@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite allow-return-values="true" name="GrimlockAutomation" parallel="false" thread-count="2" verbose="1">
+
+
+    <suite-files>
+        <!--BrowserStack Remote Tests-->
+        <suite-file path="BrowserStackFireFox_V68_TestingSlateOnVastInspector.xml"></suite-file>
+        <suite-file path="BrowserStackChrome_V75_TestingSlateOnVastInspector.xml"></suite-file>
+        <suite-file path="BrowserStackSafari_V12_2_TestingSlateOnVastInspector.xml"></suite-file>
+
+        <!--Local Mobile Tests-->
+
+        <!--<suite-file path="IphoneXTestingSlateOnJwPlayerApplication.xml"></suite-file>-->
+        <!--<suite-file path="GooglePixleTestingSlateOnJwPlayerApplication.xml"></suite-file>-->
+
+        <!--Emulators & Simulators -->
+
+        <!--<suite-file path="IphoneSimulatorXTestingSlateOnJwPlayerApplication.xml"></suite-file>-->
+        <!--<suite-file path="EmulatorGooglePixleTestingSlateOnJwPlayerApplication.xml"></suite-file>-->
+
+        <!--Local Drivers-->
+        <suite-file path="LocalDriverSafariTestingSlateOnVastInspector.xml"></suite-file>
+        <!--<suite-file path="LocalDriverChrome_V76_TestingSlateOnVastInspector.xml"></suite-file>-->
+        <!--<suite-file path="LocalDriverFireFox_TestingSlateOnVastInspector.xml"></suite-file>-->
+        <!--Local Headless-->
+        <suite-file path="LocalDriverFireFox_Headless_TestingSlateOnVastInspector.xml"></suite-file>
+        <suite-file path="LocalDriverChrome_Headless_V76_TestingSlateOnVastInspector.xml"></suite-file>
+    </suite-files>
+</suite>
+
+

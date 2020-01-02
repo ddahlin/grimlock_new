@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Applications>
+    <Application name = "jwplayer.apk">
+        <application_name>jwplayer</application_name>
+        <application_path>./src/main/resources/Application/Tremor_JWplayer_demo_1.0.0.4.apk</application_path>
+    </Application>
+    <Application name = "jwplayer.ipa">
+        <application_name>jwplayer</application_name>
+        <application_path>./src/main/resources/Application/JWPlayer.ipa</application_path>
+    </Application>
+    <Application name = "fyber.apk">
+        <application_name>fyber</application_name>
+        <application_path>./src/main/resources/Application/fyberApp.apk</application_path>
+    </Application>
+    <Application name = "">
+        <application_path></application_path>
+    </Application>
+</Applications>

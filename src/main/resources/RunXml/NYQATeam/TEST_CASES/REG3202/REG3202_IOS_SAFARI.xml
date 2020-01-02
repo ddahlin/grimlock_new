@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite allow-return-values="true" name="GrimlockAutomation" parallel="tests" thread-count="1" verbose="1">
+    <!--for web testing-->
+
+    <parameter name="device" value="86b81ace9b986f77efa5d201dc265ac04e2ee2ad"/>
+    <parameter name="web_object_to_test" value="jwplayer"/>
+    <parameter name="website" value="SafariMobile"/>
+    <parameter name="is_local" value="true"/>
+    <parameter name="is_mobile" value="true"/>
+    <parameter name="network_sniffer" value="86b81ace9b986f77efa5d201dc265ac04e2ee2ad"/>
+    <parameter name="test_name" value="REG3202 - Asset Type: Simple Video  - Mime Type/API Framework: video/mp4  - Device: IOS - Browser: Safari"/>
+
+    <test name="REG3202 IOS Safari" parallel="methods" thread-count="1">
+        <groups>
+            <run>
+                <include name="REG3202"/>
+            </run>
+        </groups>
+        <packages>
+            <package name=".*"/>
+        </packages>
+    </test>
+</suite>
+
+

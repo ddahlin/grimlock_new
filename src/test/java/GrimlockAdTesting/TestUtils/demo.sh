@@ -1,0 +1,2 @@
+#!/bin/bash
+python ./src/main/java/GrimlockFramework/Utils/pythonTest.py ./src/test/java/GrimlockAdTesting/Images ./src/test/java/GrimlockAdTesting/TremorVideoAdType/ImageConstants.java GrimlockAdTesting.TremorVideoAdType

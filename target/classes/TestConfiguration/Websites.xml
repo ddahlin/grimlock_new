@@ -1,0 +1,46 @@
+<?xml version = "1.0" ?>
+<Websites>
+    <Website Id = "ChromeLocal">
+        <os>OS X</os>
+        <os_version>Mojave</os_version>
+        <browser>Chrome</browser>
+        <browser_version>78.0</browser_version>
+        <driver_path>./src/main/resources/ChromeDriver/chromedriver78</driver_path>
+    </Website>
+    <Website Id = "ChromeHeadlessLocal">
+        <os>OS X</os>
+        <os_version>Mojave</os_version>
+        <browser>Chrome_Headless</browser>
+        <browser_version>78.0</browser_version>
+        <driver_path>./src/main/resources/ChromeDriver/chromedriver78</driver_path>
+    </Website>
+    <Website Id = "FireFoxHeadlessLocal">
+        <os>OS X</os>
+        <os_version>Mojave</os_version>
+        <browser>Firefox_Headless</browser>
+        <browser_version>35.0</browser_version>
+        <driver_path>./src/main/resources/ChromeDriver/geckodriver2</driver_path>
+
+    </Website>
+    <Website Id = "FireFoxLocal">
+        <os>OS X</os>
+        <os_version>Mojave</os_version>
+        <browser>Firefox</browser>
+        <browser_version>71.0</browser_version>
+        <driver_path>./src/main/resources/ChromeDriver/geckodriver2</driver_path>
+    </Website>
+    <Website Id = "SafariLocal">
+        <os>OS X</os>
+        <os_version>Mojave</os_version>
+        <browser>Safari</browser>
+        <browser_version>12</browser_version>
+    </Website>
+    <Website Id="SafariMobile">
+        <browser>Safari</browser>
+    </Website>
+    <Website Id="ChromeMobile">
+        <browser>Chrome</browser>
+        <browser_version>75.0</browser_version>
+        <driver_path>./src/main/resources/ChromeDriver/chromedrivermobile</driver_path>
+    </Website>
+</Websites>

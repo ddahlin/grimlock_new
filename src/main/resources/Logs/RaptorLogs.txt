@@ -1,0 +1,87 @@
+[
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "ClickTracking",
+    "timestamp": "2019-05-09T18:57:59.393Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "Click_Retailigence",
+    "timestamp": "2019-05-09T18:57:59.010Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "Interact_Bug_Click",
+    "timestamp": "2019-05-09T18:57:48.713Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "Engagement_Third_Party",
+    "timestamp": "2019-05-09T18:57:48.711Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "View_Slate",
+    "timestamp": "2019-05-09T18:57:48.703Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "pause",
+    "timestamp": "2019-05-09T18:57:48.698Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "MediaProgress_Preroll_75",
+    "timestamp": "2019-05-09T18:57:42.913Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "thirdQuartile",
+    "timestamp": "2019-05-09T18:57:42.911Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "MediaProgress_Preroll_50",
+    "timestamp": "2019-05-09T18:57:35.422Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "midpoint",
+    "timestamp": "2019-05-09T18:57:35.419Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "MediaProgress_Preroll_25",
+    "timestamp": "2019-05-09T18:57:27.747Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "firstQuartile",
+    "timestamp": "2019-05-09T18:57:27.744Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "viewableimpression",
+    "timestamp": "2019-05-09T18:57:22.010Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "MediaProgress_Preroll_0",
+    "timestamp": "2019-05-09T18:57:20.199Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "pause",
+    "timestamp": "2019-05-09T18:57:20.196Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "start",
+    "timestamp": "2019-05-09T18:57:20.107Z"
+  },
+  {
+    "sessionId": "faa16cda29d5398b518863923ee08fa4af09e48e",
+    "event": "impression",
+    "timestamp": "2019-05-09T18:57:20.017Z"
+  }
+]

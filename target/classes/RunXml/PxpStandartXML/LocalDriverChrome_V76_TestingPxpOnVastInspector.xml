@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite allow-return-values="true" name="GrimlockAutomation" parallel="methods" thread-count="2" verbose="1">
+    <!--for web testing-->
+    <parameter name="os" value="OS X"/>
+    <parameter name="os_version" value="Mojave"/>
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="browser_version" value="76.0"/>
+    <parameter name="web_object_to_test" value="vastinspector"/>
+    <!--for mobile testing-->
+    <parameter name="device_udid" value="false"/>
+    <parameter name="device_name" value="false"/>
+    <parameter name="device_version" value="false"/>
+    <parameter name="application_path"
+               value="false"/>
+    <parameter name="application_name" value="false"/>
+    <parameter name="platform" value="false"/>
+    <parameter name="xcode_org_id" value="PWA73G5RT2"/>
+
+    <!--mandatory for both-->
+    <parameter name="is_local" value="true"/>
+    <parameter name="test_name" value="xml 2 params test"/>
+    <parameter name="reopen_driver_before_each_test" value="true"/>
+    <parameter name="ad_type" value="pxp"/>
+    <parameter name="is_mobile" value="false"/>
+
+
+
+    <parameter name="network_sniffer" value="bmp"/>
+    <parameter name="sniffer_port" value="false"/>
+
+    <parameter name="browserstack_user_name" value="jeffreysoirefman1"/>
+    <parameter name="browserstack_key" value="k4UDGKmXMNWfMfdqWck2"/>
+    <test name="Local Driver Chrome V76 Pxp Test Case" parallel="methods" thread-count="1">
+        <groups>
+            <run>
+                <include name="pxp2"/>
+            </run>
+        </groups>
+        <packages>
+            <package name=".*"/>
+        </packages>
+    </test>
+</suite>
+
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite allow-return-values="true" name="GrimlockAutomation" parallel="false" thread-count="2" verbose="1">
+
+
+    <suite-files>
+        <suite-file path="REG2989_Master_Desktop_Chrome_JW.xml"></suite-file>
+        <suite-file path="REG2996_Master_Desktop_Chrome_JW.xml"></suite-file>
+        <suite-file path="REG3145_Master_Desktop_Chrome_JW.xml"></suite-file>
+        <suite-file path="REG3146_Master_Desktop_Chrome_JW.xml"></suite-file>
+        <suite-file path="REG3199_Master_Desktop_Chrome_JW.xml"></suite-file>
+        <suite-file path="REG3212_Master_Desktop_Chrome_JW.xml"></suite-file>
+        <suite-file path="REG3213_Master_Desktop_Chrome_JW.xml"></suite-file>
+        <suite-file path="REG3214_Master_Desktop_Chrome_JW.xml"></suite-file>
+        <suite-file path="REG3253_Master_Desktop_Chrome_JW.xml"></suite-file>
+        <suite-file path="REG3258_Master_Desktop_Chrome_JW.xml"></suite-file>
+    </suite-files>
+</suite>
+
+

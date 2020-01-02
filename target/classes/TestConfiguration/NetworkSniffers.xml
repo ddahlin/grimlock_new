@@ -1,0 +1,34 @@
+<?xml version = "1.0" ?>
+<NetworkSniffers>
+    <NetworkSniffer device="ZY2256FQ5K">
+        <network_sniffer>BMP</network_sniffer>
+        <port>8081</port>
+    </NetworkSniffer>
+    <NetworkSniffer device="86b81ace9b986f77efa5d201dc265ac04e2ee2ad">
+        <network_sniffer>BMP</network_sniffer>
+        <port>8082</port>
+    </NetworkSniffer>
+    <NetworkSniffer device="6107002852">
+        <network_sniffer>BMP</network_sniffer>
+        <port>8083</port>
+    </NetworkSniffer>
+    <NetworkSniffer device="1b5025b438e5dab798af4ffa125aa5e0b689d138">
+        <network_sniffer>BMP</network_sniffer>
+        <port>8084</port>
+    </NetworkSniffer>
+    <NetworkSniffer device="8C48E0F9-2796-43D7-9F40-1314DB4E178D">
+        <network_sniffer>BMP</network_sniffer>
+        <port>8085</port>
+    </NetworkSniffer>
+
+    <NetworkSniffer device="Website">
+        <network_sniffer>BMP</network_sniffer>
+    </NetworkSniffer>
+    <NetworkSniffer device="false">
+        <network_sniffer>false</network_sniffer>
+    </NetworkSniffer>
+    <NetworkSniffer device="emulator-5554">
+        <network_sniffer>BMP</network_sniffer>
+        <port>8086</port>
+    </NetworkSniffer>
+</NetworkSniffers>

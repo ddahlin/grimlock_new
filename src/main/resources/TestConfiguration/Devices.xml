@@ -1,0 +1,48 @@
+<?xml version = "1.0" ?>
+<Devices>
+    <Device udid="ZY2256FQ5K">
+        <udid>ZY2256FQ5K</udid>
+        <device_name>Google Pixel 2</device_name>
+        <device_version>9</device_version>
+        <platform>android</platform>
+        <appium_path>./src/main/resources/Servers/appium</appium_path>
+    </Device>
+    <Device udid="6107002852">
+        <udid>6107002852</udid>
+        <device_name>Google Pixel C</device_name>
+        <device_version>9</device_version>
+        <platform>android</platform>
+        <appium_path>./src/main/resources/Servers/appium</appium_path>
+    </Device>
+    <Device udid="emulator-5554">
+        <udid>emulator-5554</udid>
+        <device_name>Emulator Pixel 2</device_name>
+        <device_version>9</device_version>
+        <platform>android</platform>
+        <appium_path>./src/main/resources/Servers/appium</appium_path>
+    </Device>
+    <Device udid="86b81ace9b986f77efa5d201dc265ac04e2ee2ad">
+        <udid>86b81ace9b986f77efa5d201dc265ac04e2ee2ad</udid>
+        <device_name>iPad</device_name>
+        <device_version>12.4.2</device_version>
+        <platform>ios</platform>
+        <xcode_org_id>PWA73G5RT2</xcode_org_id>
+        <appium_path>./src/main/resources/Servers/appium</appium_path>
+    </Device>
+    <Device udid="1b5025b438e5dab798af4ffa125aa5e0b689d138">
+        <udid>1b5025b438e5dab798af4ffa125aa5e0b689d138</udid>
+        <device_name>iPad Pro</device_name>
+        <device_version>12.3</device_version>
+        <platform>ios</platform>
+        <xcode_org_id>PWA73G5RT2</xcode_org_id>
+        <appium_path>./src/main/resources/Servers/appium</appium_path>
+    </Device>
+    <Device udid="8C48E0F9-2796-43D7-9F40-1314DB4E178D">
+        <udid>8C48E0F9-2796-43D7-9F40-1314DB4E178D</udid>
+        <device_name>iPhone X</device_name>
+        <device_version>13</device_version>
+        <platform>ios</platform>
+        <xcode_org_id>PWA73G5RT2</xcode_org_id>
+        <appium_path>./src/main/resources/Servers/appium</appium_path>
+    </Device>
+</Devices>

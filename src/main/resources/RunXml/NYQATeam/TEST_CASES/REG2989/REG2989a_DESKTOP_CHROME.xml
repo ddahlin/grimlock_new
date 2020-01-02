@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="GrimlockAutomation" parallel="methods" thread-count="10">
+    <!--for web testing-->
+
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="website" value="ChromeLocal"/>
+    <parameter name="web_object_to_test" value="jwplayer"/>
+    <parameter name="is_local" value="true"/>
+    <parameter name="is_mobile" value="false"/>
+    <parameter name="network_sniffer" value="Website"/>
+    <parameter name="test_name" value="REG2989a - AdForomat Type: SPR   - Platform: OSX  - Browser: Chrome"/>
+    <listeners>
+        <listener class-name="GrimlockInitialisation.Listeners.AnnotationTransformer"/>
+    </listeners>
+    <test name="REG3203 desktop  Chrome" parallel="methods" thread-count="1">
+        <groups>
+            <run>
+                <include name="REG2989a"/>
+            </run>
+        </groups>
+        <packages>
+            <package name=".*"/>
+        </packages>
+    </test>
+</suite>
+
+

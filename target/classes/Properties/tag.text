@@ -1,0 +1,626 @@
+## using
+* blink v3.1.13 (production)
+* apl v1.0.1 (production)
+* starter-kits v5.0.7 (production)
+* blink-cli v2.6.0 (production)
+* Blink Components v2.1.43
+* Blink Snippets 
+* VAST Inspector v7.1.4
+
+## prp
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/9Rd60vic/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/9Rd60vic/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/9Rd60vic/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F9Rd60vic%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F9Rd60vic%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F9Rd60vic%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/9Rd60vic/qr.png)
+
+## pxp
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/vp_qG2k4/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/vp_qG2k4/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/vp_qG2k4/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fvp_qG2k4%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fvp_qG2k4%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fvp_qG2k4%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/vp_qG2k4/qr.png)
+
+## spr
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/CeZyASos/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/CeZyASos/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/CeZyASos/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FCeZyASos%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FCeZyASos%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FCeZyASos%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/CeZyASos/qr.png)
+
+## spra
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/JvX2_hv-/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/JvX2_hv-/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/JvX2_hv-/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FJvX2_hv-%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FJvX2_hv-%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FJvX2_hv-%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/JvX2_hv-/qr.png)
+
+## spre
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/1kElYMJN/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/1kElYMJN/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/1kElYMJN/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F1kElYMJN%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F1kElYMJN%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F1kElYMJN%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/1kElYMJN/qr.png)
+
+## prp720
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/lDovED0N/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/lDovED0N/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/lDovED0N/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FlDovED0N%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FlDovED0N%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FlDovED0N%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/lDovED0N/qr.png)
+
+## pxp720
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/IRuishpb/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/IRuishpb/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/IRuishpb/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FIRuishpb%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FIRuishpb%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FIRuishpb%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/IRuishpb/qr.png)
+
+## spr720
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/QvDS2X1I/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/QvDS2X1I/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/QvDS2X1I/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FQvDS2X1I%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FQvDS2X1I%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FQvDS2X1I%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/QvDS2X1I/qr.png)
+
+## spra720
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/_xH3rAS6/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/_xH3rAS6/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/_xH3rAS6/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F_xH3rAS6%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F_xH3rAS6%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F_xH3rAS6%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/_xH3rAS6/qr.png)
+
+## spre720
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/mwuhPqAM/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/mwuhPqAM/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/mwuhPqAM/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FmwuhPqAM%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FmwuhPqAM%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FmwuhPqAM%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/mwuhPqAM/qr.png)
+
+## prp-v
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/UKguUlPa/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/UKguUlPa/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/UKguUlPa/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FUKguUlPa%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FUKguUlPa%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FUKguUlPa%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/UKguUlPa/qr.png)
+
+## pxp-v
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/DEBSLd79/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/DEBSLd79/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/DEBSLd79/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FDEBSLd79%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FDEBSLd79%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FDEBSLd79%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/DEBSLd79/qr.png)
+
+## spr-v
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/lIJIRJg5/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/lIJIRJg5/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/lIJIRJg5/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FlIJIRJg5%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FlIJIRJg5%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FlIJIRJg5%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/lIJIRJg5/qr.png)
+
+## spra-v
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/jdJLhfq5/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/jdJLhfq5/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/jdJLhfq5/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FjdJLhfq5%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FjdJLhfq5%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FjdJLhfq5%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/jdJLhfq5/qr.png)
+
+## spre-v
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/-SQIQbho/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/-SQIQbho/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/-SQIQbho/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F-SQIQbho%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F-SQIQbho%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F-SQIQbho%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/-SQIQbho/qr.png)
+
+## adhesion
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/RcbRWVR4/manifest.json)
+* [Banner](https://s.tremorvideodsp.com/m/2019/10/RcbRWVR4/banner.txt)
+* [Mraid](https://s.tremorvideodsp.com/m/2019/10/RcbRWVR4/mraid.txt)
+* ![](https://s.tremorvideodsp.com/m/2019/10/RcbRWVR4/qr.png)
+
+## leaderboard
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/vpliQILA/manifest.json)
+* [Banner](https://s.tremorvideodsp.com/m/2019/10/vpliQILA/banner.txt)
+* [Mraid](https://s.tremorvideodsp.com/m/2019/10/vpliQILA/mraid.txt)
+* ![](https://s.tremorvideodsp.com/m/2019/10/vpliQILA/qr.png)
+
+## channel-finder
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/4mU2vPor/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/4mU2vPor/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/4mU2vPor/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F4mU2vPor%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F4mU2vPor%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F4mU2vPor%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/4mU2vPor/qr.png)
+
+## input-field
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/71QFM1FJ/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/71QFM1FJ/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/71QFM1FJ/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F71QFM1FJ%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F71QFM1FJ%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F71QFM1FJ%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/71QFM1FJ/qr.png)
+
+## movieboard-bug
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/2TyFevxQ/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/2TyFevxQ/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/2TyFevxQ/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F2TyFevxQ%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F2TyFevxQ%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F2TyFevxQ%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/2TyFevxQ/qr.png)
+
+## movieboard-bug_demo
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/x657Ooam/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/x657Ooam/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/x657Ooam/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fx657Ooam%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fx657Ooam%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fx657Ooam%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/x657Ooam/qr.png)
+
+## movieboard-slate
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/aWVbjK1N/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/aWVbjK1N/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/aWVbjK1N/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FaWVbjK1N%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FaWVbjK1N%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FaWVbjK1N%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/aWVbjK1N/qr.png)
+
+## movieboard-slate_demo
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/FD9rsvll/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/FD9rsvll/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/FD9rsvll/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FFD9rsvll%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FFD9rsvll%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FFD9rsvll%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/FD9rsvll/qr.png)
+
+## pathformance-compact
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/XjHlhv0c/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/XjHlhv0c/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/XjHlhv0c/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FXjHlhv0c%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FXjHlhv0c%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FXjHlhv0c%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/XjHlhv0c/qr.png)
+
+## pathformance-compactV
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/Npw26VYG/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/Npw26VYG/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/Npw26VYG/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FNpw26VYG%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FNpw26VYG%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FNpw26VYG%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/Npw26VYG/qr.png)
+
+## pathformance-slate
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/MAhoPfUG/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/MAhoPfUG/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/MAhoPfUG/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FMAhoPfUG%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FMAhoPfUG%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FMAhoPfUG%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/MAhoPfUG/qr.png)
+
+## pathformance-slateV
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/LS5dD93l/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/LS5dD93l/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/LS5dD93l/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FLS5dD93l%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FLS5dD93l%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FLS5dD93l%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/LS5dD93l/qr.png)
+
+## pathformance-standard
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/kZzDaJG4/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/kZzDaJG4/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/kZzDaJG4/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FkZzDaJG4%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FkZzDaJG4%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FkZzDaJG4%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/kZzDaJG4/qr.png)
+
+## photo-360
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/PcwaBpFQ/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/PcwaBpFQ/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/PcwaBpFQ/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FPcwaBpFQ%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FPcwaBpFQ%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FPcwaBpFQ%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/PcwaBpFQ/qr.png)
+
+## pxp_agc
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/RsxBvgQV/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/RsxBvgQV/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/RsxBvgQV/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FRsxBvgQV%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FRsxBvgQV%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FRsxBvgQV%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/RsxBvgQV/qr.png)
+
+## pxp_agc2
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/2PfW-7cL/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/2PfW-7cL/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/2PfW-7cL/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F2PfW-7cL%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F2PfW-7cL%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F2PfW-7cL%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/2PfW-7cL/qr.png)
+
+## pxp_agnc2
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/u0o44CR_/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/u0o44CR_/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/u0o44CR_/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fu0o44CR_%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fu0o44CR_%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fu0o44CR_%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/u0o44CR_/qr.png)
+
+## pxp_agnc3
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/a6LLabGH/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/a6LLabGH/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/a6LLabGH/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fa6LLabGH%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fa6LLabGH%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fa6LLabGH%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/a6LLabGH/qr.png)
+
+## pxp_sc
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/P4LYFqT7/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/P4LYFqT7/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/P4LYFqT7/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FP4LYFqT7%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FP4LYFqT7%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FP4LYFqT7%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/P4LYFqT7/qr.png)
+
+## pxp_snc
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/xpmSYg0H/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/xpmSYg0H/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/xpmSYg0H/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FxpmSYg0H%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FxpmSYg0H%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FxpmSYg0H%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/xpmSYg0H/qr.png)
+
+## pxp_multivideo
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/__vWYOeE/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/__vWYOeE/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/__vWYOeE/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F__vWYOeE%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F__vWYOeE%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F__vWYOeE%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/__vWYOeE/qr.png)
+
+## retailigence-compact
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/pWJTL99P/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/pWJTL99P/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/pWJTL99P/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FpWJTL99P%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FpWJTL99P%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FpWJTL99P%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/pWJTL99P/qr.png)
+
+## retailigence-compactV
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/e1kh_iBF/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/e1kh_iBF/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/e1kh_iBF/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fe1kh_iBF%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fe1kh_iBF%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fe1kh_iBF%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/e1kh_iBF/qr.png)
+
+## retailigence-slate
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/24lYHd37/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/24lYHd37/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/24lYHd37/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F24lYHd37%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F24lYHd37%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F24lYHd37%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/24lYHd37/qr.png)
+
+## retailigence-slateV
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/93A_-ARJ/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/93A_-ARJ/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/93A_-ARJ/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F93A_-ARJ%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F93A_-ARJ%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F93A_-ARJ%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/93A_-ARJ/qr.png)
+
+## retailigence-standard
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/zpxEpt4y/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/zpxEpt4y/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/zpxEpt4y/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FzpxEpt4y%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FzpxEpt4y%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FzpxEpt4y%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/zpxEpt4y/qr.png)
+
+## secondary-video
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/dtb7pIp4/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/dtb7pIp4/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/dtb7pIp4/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fdtb7pIp4%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fdtb7pIp4%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fdtb7pIp4%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/dtb7pIp4/qr.png)
+
+## text-scroll
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/QeMJWKGj/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/QeMJWKGj/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/QeMJWKGj/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FQeMJWKGj%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FQeMJWKGj%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FQeMJWKGj%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/QeMJWKGj/qr.png)
+
+## tvlistings-slate
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/UmpJU6Fo/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/UmpJU6Fo/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/UmpJU6Fo/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FUmpJU6Fo%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FUmpJU6Fo%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FUmpJU6Fo%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/UmpJU6Fo/qr.png)
+
+## video-360
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/V5WeATWE/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/V5WeATWE/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/V5WeATWE/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FV5WeATWE%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FV5WeATWE%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FV5WeATWE%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/V5WeATWE/qr.png)
+
+## addmovieclipwith-subtitles
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/W1gf1QQS/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/W1gf1QQS/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/W1gf1QQS/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FW1gf1QQS%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FW1gf1QQS%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FW1gf1QQS%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/W1gf1QQS/qr.png)
+
+## devicespecific-clickout
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/A4BWoovy/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/A4BWoovy/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/A4BWoovy/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FA4BWoovy%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FA4BWoovy%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FA4BWoovy%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/A4BWoovy/qr.png)
+
+## animation-sequence
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/ljJiyIKO/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/ljJiyIKO/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/ljJiyIKO/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FljJiyIKO%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FljJiyIKO%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FljJiyIKO%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/ljJiyIKO/qr.png)
+
+## build-uri
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/5ixN3zVX/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/5ixN3zVX/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/5ixN3zVX/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F5ixN3zVX%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F5ixN3zVX%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F5ixN3zVX%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/5ixN3zVX/qr.png)
+
+## castuser-vote
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/YgCfiYNY/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/YgCfiYNY/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/YgCfiYNY/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FYgCfiYNY%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FYgCfiYNY%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FYgCfiYNY%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/YgCfiYNY/qr.png)
+
+## constrained-drag
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/aVt-XcP_/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/aVt-XcP_/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/aVt-XcP_/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FaVt-XcP_%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FaVt-XcP_%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FaVt-XcP_%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/aVt-XcP_/qr.png)
+
+## countdown
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/g8slKtMk/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/g8slKtMk/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/g8slKtMk/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fg8slKtMk%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fg8slKtMk%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fg8slKtMk%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/g8slKtMk/qr.png)
+
+## download-link
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/CBVd0cMb/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/CBVd0cMb/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/CBVd0cMb/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FCBVd0cMb%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FCBVd0cMb%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FCBVd0cMb%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/CBVd0cMb/qr.png)
+
+## dynamicimage-gallery
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/4W7oRWRy/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/4W7oRWRy/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/4W7oRWRy/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F4W7oRWRy%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F4W7oRWRy%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F4W7oRWRy%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/4W7oRWRy/qr.png)
+
+## geoinfo
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/B1R2jCW_/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/B1R2jCW_/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/B1R2jCW_/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FB1R2jCW_%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FB1R2jCW_%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FB1R2jCW_%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/B1R2jCW_/qr.png)
+
+## getcurrent-weather
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/CgYvx5IL/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/CgYvx5IL/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/CgYvx5IL/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FCgYvx5IL%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FCgYvx5IL%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FCgYvx5IL%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/CgYvx5IL/qr.png)
+
+## getuv-index
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/kg8pSJJG/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/kg8pSJJG/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/kg8pSJJG/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fkg8pSJJG%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fkg8pSJJG%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Fkg8pSJJG%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/kg8pSJJG/qr.png)
+
+## getweather-forecast
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/6b20uzHd/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/6b20uzHd/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/6b20uzHd/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F6b20uzHd%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F6b20uzHd%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F6b20uzHd%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/6b20uzHd/qr.png)
+
+## initializegestures-swipe
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/M1dwGvvB/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/M1dwGvvB/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/M1dwGvvB/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FM1dwGvvB%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FM1dwGvvB%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FM1dwGvvB%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/M1dwGvvB/qr.png)
+
+## isslateinitialized
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/aRLL0zFJ/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/aRLL0zFJ/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/aRLL0zFJ/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FaRLL0zFJ%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FaRLL0zFJ%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FaRLL0zFJ%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/aRLL0zFJ/qr.png)
+
+## load-json
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/hukYhap2/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/hukYhap2/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/hukYhap2/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FhukYhap2%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FhukYhap2%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FhukYhap2%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/hukYhap2/qr.png)
+
+## load-sounds
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/5HewL5lu/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/5HewL5lu/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/5HewL5lu/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F5HewL5lu%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F5HewL5lu%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F5HewL5lu%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/5HewL5lu/qr.png)
+
+## openurl
+
+## print-image
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/WMba3il9/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/WMba3il9/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/WMba3il9/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FWMba3il9%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FWMba3il9%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FWMba3il9%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/WMba3il9/qr.png)
+
+## scrollable-movieclip
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/eb7elPyY/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/eb7elPyY/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/eb7elPyY/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Feb7elPyY%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Feb7elPyY%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2Feb7elPyY%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/eb7elPyY/qr.png)
+
+## scrollbar-movieclip
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/yPIZp95E/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/yPIZp95E/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/yPIZp95E/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FyPIZp95E%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FyPIZp95E%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FyPIZp95E%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/yPIZp95E/qr.png)
+
+## sharetofacebook
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/mN_5GMEU/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/mN_5GMEU/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/mN_5GMEU/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FmN_5GMEU%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FmN_5GMEU%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FmN_5GMEU%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/mN_5GMEU/qr.png)
+
+## sharetotwitter
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/HwO_Jqix/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/HwO_Jqix/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/HwO_Jqix/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FHwO_Jqix%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FHwO_Jqix%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FHwO_Jqix%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/HwO_Jqix/qr.png)
+
+## slateautoclosetimer
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/ptqZxZRZ/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/ptqZxZRZ/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/ptqZxZRZ/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FptqZxZRZ%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FptqZxZRZ%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2FptqZxZRZ%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/ptqZxZRZ/qr.png)
+
+## verifyfont-files
+* [VAST2](https://s.tremorvideodsp.com/m/2019/10/-beujvcB/vast2.xml)
+* [VAST3](https://s.tremorvideodsp.com/m/2019/10/-beujvcB/vast3.xml)
+* [Manifest](https://s.tremorvideodsp.com/m/2019/10/-beujvcB/manifest.json)
+* [Google IMA](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector?tag=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F-beujvcB%2Fvast3.xml)
+* [JWPlayer](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/jwplayer/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F-beujvcB%2Fvast3.xml)
+* [Brightcove](https://html5.tremorvideodsp.com/v7.1.4/index.html?#/desktop/default/brightcove/basic?playerOptions.autostart=true&adTagUri=https%3A%2F%2Fs.tremorvideodsp.com%2Fm%2F2019%2F10%2F-beujvcB%2Fvast3.xml)
+* ![](https://s.tremorvideodsp.com/m/2019/10/-beujvcB/qr.png)
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite allow-return-values="true" name="GrimlockAutomation" parallel="tests" thread-count="1" verbose="1">
+
+    <!--mandatory-->
+    <parameter name="is_local" value="true,false"/>
+    <parameter name="test_name" value="can be anything"/>
+    <parameter name="reopen_driver_before_each_test" value="true,false - usually need to be false."/>
+    <parameter name="ad_type" value="for example : slate,pxp,prp and more .."/>
+    <parameter name="is_mobile" value="true,false"/>
+    <parameter name="network_sniffer" value="charles or false"/>
+    <!--for desktop testing-->
+    <parameter name="os" value="windows|mac - Only if local is false"/>
+    <parameter name="os_version" value="windows version|mac version - Relevant only if local is false"/>
+    <parameter name="browser" value="chrome | safari | firefox"/>
+    <parameter name="browser_version" value="chrome_version,safari_version,firefox_version"/>
+    <parameter name="web_object_to_test" value="URL to open in the browser: for example : https://preview.tremorvideodsp.com/#/"/>
+    <!--for mobile testing-->
+    <parameter name="device_udid" value="device udid for apple device"/>
+    <parameter name="device_name" value="device name can be found in 'about' in device settings"/>
+    <parameter name="device_version" value="device version can be found in 'about' in device settings"/>
+    <parameter name="application_path" value="the path to the application for example :/Users/user/Desktop/Jwplayer.ipa"/>
+    <parameter name="application_name" value="the name of the application for example :Jwplayer"/>
+    <parameter name="platform" value="ios,android"/>
+    <parameter name="xcode_org_id" value="PWA73G5RT2"/>
+
+    <listeners>
+        <listener class-name="GrimlockInitialisation.Listeners.TestListener"></listener>
+        <listener class-name="GrimlockInitialisation.Listeners.SuiteListener"></listener>
+    </listeners>
+    <test name="title for the test name" parallel="methods" thread-count="1">
+        <groups>
+            <run>
+                <include name="the name of the group"/>
+            </run>
+        </groups>
+        <packages>
+            <package name=".*"/>
+        </packages>
+    </test>
+</suite>
+
+

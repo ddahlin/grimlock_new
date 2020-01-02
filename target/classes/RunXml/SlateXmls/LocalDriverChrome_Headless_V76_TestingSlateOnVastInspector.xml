@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="GrimlockAutomation" parallel="methods" thread-count="6" verbose="10">
+    <parameter name="website" value="ChromeHeadlessLocal"/>
+    <parameter name="web_object_to_test" value="vastinspector"/>
+    <parameter name="is_local" value="true"/>
+    <parameter name="is_mobile" value="false"/>
+    <parameter name="network_sniffer" value="Website"/>
+    <listeners>
+        <listener class-name="GrimlockInitialisation.Listeners.AnnotationTransformer"/>
+    </listeners>
+    <test name="Local Driver Headless Chrome V76 Slate Test Case" >
+        <groups>
+            <run>
+                <include name="slate"/>
+            </run>
+        </groups>
+        <packages>
+            <package name=".*"/>
+        </packages>
+    </test>
+</suite>
+
+

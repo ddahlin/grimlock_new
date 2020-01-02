@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite allow-return-values="true" name="GrimlockAutomation" parallel="tests" thread-count="2" >
+    <!--for web testing-->
+    <listeners>
+        <listener class-name="GrimlockInitialisation.Listeners.AnnotationTransformer"/>
+    </listeners>
+    <test name="Chrome_Headless Slate" parallel="methods" thread-count="3">
+        <parameter name="website" value="ChromeHeadlessLocal"/>
+        <parameter name="web_object_to_test" value="vastinspector"/>
+        <parameter name="is_local" value="true"/>
+        <parameter name="is_mobile" value="false"/>
+        <parameter name="network_sniffer" value="Website"/>
+        <groups>
+            <run>
+                <include name="slate"/>
+            </run>
+        </groups>
+        <packages>
+            <package name=".*"/>
+        </packages>
+    </test>
+
+    <test name="Firefox_Headless Slate" parallel="methods" thread-count="3">
+        <parameter name="website" value="FireFoxHeadlessLocal"/>
+        <parameter name="web_object_to_test" value="vastinspector"/>
+        <parameter name="is_local" value="true"/>
+        <parameter name="is_mobile" value="false"/>
+        <parameter name="network_sniffer" value="Website"/>
+        <groups>
+            <run>
+                <include name="slate"/>
+            </run>
+        </groups>
+        <packages>
+            <package name=".*"/>
+        </packages>
+    </test>
+    <!--<test name="FA7B11A01066" parallel="methods" thread-count="1">-->
+        <!--<parameter name="device" value="FA7B11A01066"/>-->
+        <!--<parameter name="web_object_to_test" value="vast"/>-->
+        <!--<parameter name="application" value="jwplayer.apk"/>-->
+        <!--<parameter name="is_local" value="true"/>-->
+        <!--<parameter name="is_mobile" value="true"/>-->
+        <!--<parameter name="network_sniffer" value="FA7B11A01066"/>-->
+        <!--<groups>-->
+            <!--<run>-->
+                <!--<include name="slate"/>-->
+            <!--</run>-->
+        <!--</groups>-->
+        <!--<packages>-->
+            <!--<package name=".*"/>-->
+        <!--</packages>-->
+    <!--</test>-->
+
+</suite>

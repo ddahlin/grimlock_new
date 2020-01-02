@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite allow-return-values="true" name="GrimlockAutomation" parallel="tests" thread-count="1" verbose="1">
+    <!--for web testing-->
+    <parameter name="application" value="jwplayer.ipa"/>
+    <parameter name="web_object_to_test" value="vast"/>
+    <parameter name="device" value="aaf55afa213e951ef6f646c9ba537d0aac253562"/>
+    <parameter name="is_local" value="true"/>
+    <parameter name="is_mobile" value="true"/>
+    <parameter name="network_sniffer" value="aaf55afa213e951ef6f646c9ba537d0aac253562"/>
+
+    <test name="Local Iphone X Slate Test Case" parallel="methods" thread-count="1">
+        <groups>
+            <run>
+                <include name="slate"/>
+            </run>
+        </groups>
+        <packages>
+            <package name=".*"/>
+        </packages>
+    </test>
+</suite>
+
+

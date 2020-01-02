@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite allow-return-values="true" name="GrimlockAutomation" parallel="tests" thread-count="2" verbose="4">
+    <!--for web testing-->
+    <listeners>
+        <listener class-name="GrimlockInitialisation.Listeners.AnnotationTransformer"/>
+    </listeners>
+    <test name="Local Iphone X Slate Test Case" parallel="methods" thread-count="1">
+        <parameter name="os" value="false"/>
+        <parameter name="os_version" value="false"/>
+        <parameter name="browser" value="safari"/>
+        <parameter name="browser_version" value=""/>
+        <parameter name="web_object_to_test" value="vast"/>
+        <!--for mobile testing-->
+        <parameter name="device_udid" value="aaf55afa213e951ef6f646c9ba537d0aac253562"/>
+        <parameter name="device_name" value="iPhone X"/>
+        <parameter name="device_version" value="12.2"/>
+        <parameter name="application_path"
+                   value=""/>
+        <parameter name="application_name" value="jwplayer"/>
+        <parameter name="platform" value="ios"/>
+        <parameter name="xcode_org_id" value="PWA73G5RT2"/>
+        <!--mandatory for both-->
+        <parameter name="is_local" value="true"/>
+        <parameter name="test_name" value="xml 2 params test"/>
+        <parameter name="reopen_driver_before_each_test" value="false"/>
+        <parameter name="ad_type" value="slate"/>
+        <parameter name="is_mobile" value="true"/>
+
+
+        <parameter name="network_sniffer" value="bmp"/>
+        <parameter name="network_sniffer_port" value="8082"/>
+
+        <parameter name="browserstack_user_name" value="jeffreysoirefman1"/>
+        <parameter name="browserstack_key" value="k4UDGKmXMNWfMfdqWck2"/>
+
+
+        <groups>
+            <run>
+                <include name="slate"/>
+            </run>
+        </groups>
+        <packages>
+            <package name=".*"/>
+        </packages>
+    </test>
+
+    <test name="Local Google Pixel 2 Slate Test Case" parallel="methods" thread-count="1">
+        <parameter name="os" value="false"/>
+        <parameter name="os_version" value="false"/>
+        <parameter name="browser" value="Chrome"/>
+        <parameter name="browser_version" value="75"/>
+        <parameter name="web_object_to_test" value="false"/>
+        <!--for mobile testing-->
+        <parameter name="device_udid" value="false"/>
+        <parameter name="device_name" value="FA7B11A01066"/>
+        <parameter name="device_version" value="9"/>
+        <parameter name="application_path"
+                   value="false"/>
+        <parameter name="application_name" value="jwplayer"/>
+        <parameter name="platform" value="Android"/>
+        <parameter name="xcode_org_id" value="false"/>
+        <!--mandatory for both-->
+        <parameter name="is_local" value="true"/>
+        <parameter name="test_name" value="xml 2 params test"/>
+        <parameter name="reopen_driver_before_each_test" value="false"/>
+        <parameter name="ad_type" value="slate"/>
+        <parameter name="is_mobile" value="true"/>
+        <parameter name="network_sniffer" value="bmp"/>
+        <parameter name="network_sniffer_port" value="8081"/>
+
+        <parameter name="browserstack_user_name" value="jeffreysoirefman1"/>
+        <parameter name="browserstack_key" value="k4UDGKmXMNWfMfdqWck2"/>
+        <groups>
+            <run>
+                <include name="slate"/>
+            </run>
+        </groups>
+        <packages>
+            <package name=".*"/>
+        </packages>
+    </test>
+    <!--<test name="Local Driver Chrome_Headless  Slate Test Case" parallel="methods" thread-count="1">-->
+        <!--<parameter name="os" value="OS X"/>-->
+        <!--<parameter name="os_version" value="Mojave"/>-->
+        <!--<parameter name="browser" value="Chrome_Headless"/>-->
+        <!--<parameter name="browser_version" value="76.0"/>-->
+        <!--<parameter name="web_object_to_test" value="vastinspector"/>-->
+        <!--&lt;!&ndash;for mobile testing&ndash;&gt;-->
+        <!--<parameter name="device_udid" value="false"/>-->
+        <!--<parameter name="device_name" value="false"/>-->
+        <!--<parameter name="device_version" value="false"/>-->
+        <!--<parameter name="application_path"-->
+                   <!--value="false"/>-->
+        <!--<parameter name="application_name" value="false"/>-->
+        <!--<parameter name="platform" value="false"/>-->
+        <!--<parameter name="xcode_org_id" value="PWA73G5RT2"/>-->
+
+        <!--&lt;!&ndash;mandatory for both&ndash;&gt;-->
+        <!--<parameter name="is_local" value="true"/>-->
+        <!--<parameter name="test_name" value="xml 2 params test"/>-->
+        <!--<parameter name="reopen_driver_before_each_test" value="false"/>-->
+        <!--<parameter name="ad_type" value="slate"/>-->
+        <!--<parameter name="is_mobile" value="false"/>-->
+
+        <!--<parameter name="network_sniffer" value="bmp"/>-->
+        <!--<parameter name="browserstack_user_name" value="jeffreysoirefman1"/>-->
+        <!--<parameter name="browserstack_key" value="k4UDGKmXMNWfMfdqWck2"/>-->
+        <!--<groups>-->
+            <!--<run>-->
+                <!--<include name="slate"/>-->
+            <!--</run>-->
+        <!--</groups>-->
+        <!--<packages>-->
+            <!--<package name=".*"/>-->
+        <!--</packages>-->
+    <!--</test>-->
+
+    <!--<test name="Local Driver Firefox_Headless  Slate Test Case" parallel="methods" thread-count="1">-->
+        <!--<parameter name="os" value="OS X"/>-->
+        <!--<parameter name="os_version" value="Mojave"/>-->
+        <!--<parameter name="browser" value="Firefox_Headless"/>-->
+        <!--<parameter name="browser_version" value="35.0"/>-->
+        <!--<parameter name="web_object_to_test" value="vastinspector"/>-->
+        <!--&lt;!&ndash;for mobile testing&ndash;&gt;-->
+        <!--<parameter name="device_udid" value="false"/>-->
+        <!--<parameter name="device_name" value="false"/>-->
+        <!--<parameter name="device_version" value="false"/>-->
+        <!--<parameter name="application_path"-->
+                   <!--value="false"/>-->
+        <!--<parameter name="application_name" value="false"/>-->
+        <!--<parameter name="platform" value="false"/>-->
+        <!--<parameter name="xcode_org_id" value="PWA73G5RT2"/>-->
+
+        <!--&lt;!&ndash;mandatory for both&ndash;&gt;-->
+        <!--<parameter name="is_local" value="true"/>-->
+        <!--<parameter name="test_name" value="xml 2 params test"/>-->
+        <!--<parameter name="reopen_driver_before_each_test" value="false"/>-->
+        <!--<parameter name="ad_type" value="slate"/>-->
+        <!--<parameter name="is_mobile" value="false"/>-->
+        <!--<parameter name="network_sniffer" value="bmp"/>-->
+        <!--<parameter name="browserstack_user_name" value="jeffreysoirefman1"/>-->
+        <!--<parameter name="browserstack_key" value="k4UDGKmXMNWfMfdqWck2"/>-->
+        <!--<groups>-->
+            <!--<run>-->
+                <!--<include name="slate"/>-->
+            <!--</run>-->
+        <!--</groups>-->
+        <!--<packages>-->
+            <!--<package name=".*"/>-->
+        <!--</packages>-->
+    <!--</test>-->
+    <!--<test name="Local Driver Safari Slate Test Case" parallel="methods" thread-count="1" >-->
+        <!--<parameter name="os" value="OS X"/>-->
+        <!--<parameter name="os_version" value="Mojave"/>-->
+        <!--<parameter name="browser" value="Safari"/>-->
+        <!--<parameter name="browser_version" value="12"/>-->
+        <!--<parameter name="web_object_to_test" value="vastinspector"/>-->
+        <!--&lt;!&ndash;for mobile testing&ndash;&gt;-->
+        <!--<parameter name="device_udid" value="false"/>-->
+        <!--<parameter name="device_name" value="false"/>-->
+        <!--<parameter name="device_version" value="false"/>-->
+        <!--<parameter name="application_path"-->
+                   <!--value="false"/>-->
+        <!--<parameter name="application_name" value="false"/>-->
+        <!--<parameter name="platform" value="false"/>-->
+        <!--<parameter name="xcode_org_id" value="PWA73G5RT2"/>-->
+        <!--&lt;!&ndash;mandatory for both&ndash;&gt;-->
+        <!--<parameter name="is_local" value="true"/>-->
+        <!--<parameter name="test_name" value="xml 2 params test"/>-->
+        <!--<parameter name="reopen_driver_before_each_test" value="false"/>-->
+        <!--<parameter name="ad_type" value="slate"/>-->
+        <!--<parameter name="is_mobile" value="false"/>-->
+        <!--<parameter name="network_sniffer" value="bmp"/>-->
+        <!--<parameter name="browserstack_user_name" value="jeffreysoirefman1"/>-->
+        <!--<parameter name="browserstack_key" value="k4UDGKmXMNWfMfdqWck2"/>-->
+
+        <!--<groups>-->
+            <!--<run>-->
+                <!--<include name="slate"/>-->
+            <!--</run>-->
+        <!--</groups>-->
+        <!--<packages>-->
+            <!--<package name=".*"/>-->
+        <!--</packages>-->
+    <!--</test>-->
+</suite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite allow-return-values="true" name="GrimlockAutomation" parallel="false" thread-count="2" verbose="1">
+
+
+
+    <suite-files>
+        <suite-file path="../TEST_CASES/REG3202/REG3202_IOS_INAPP.xml"></suite-file>
+        <suite-file path="../TEST_CASES/REG3203/REG3203_IOS_INAPP.xml"></suite-file>
+        <suite-file path="../TEST_CASES/REG2989/REG2989b_IOS_INAPP.xml"></suite-file>
+    </suite-files>
+</suite>
+
+

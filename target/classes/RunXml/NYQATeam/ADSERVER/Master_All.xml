@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite allow-return-values="true" name="GrimlockAutomation" parallel="false" thread-count="2" verbose="1">
+
+
+    <suite-files>
+        <suite-file path="Master_Desktop_Chrome_JW.xml"></suite-file>
+        <suite-file path="Master_Android_InApp_JW.xml"></suite-file>
+        <suite-file path="Master_iOS_InApp_JW.xml"></suite-file>
+    </suite-files>
+</suite>
+
+
